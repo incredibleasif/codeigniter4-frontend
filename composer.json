@@ -25,7 +25,7 @@
         "php": "^8.0",
         "almasaeed2010/adminlte": "^3.0",
         "components/jquery": "^3.3",
-        "datatables.net/datatables.net-bs4": "dev-master",
+        "datatables.net/datatables.net-bs5": "dev-master",
         "fortawesome/font-awesome": "^5.15 || ^6.0",
         "league/commonmark": "^2.0",
         "tatter/alerts": "^3.0",
