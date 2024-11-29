@@ -6,7 +6,7 @@ use Tatter\Frontend\FrontendPublisher;
 
 class DataTablesStylePublisher extends FrontendPublisher
 {
-    protected string $vendorPath = 'datatables.net/datatables.net-bs4';
+    protected string $vendorPath = 'datatables.net/datatables.net-bs5';
     protected string $publicPath = 'datatables';
 
     /**
